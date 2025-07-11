@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which of the following is NOT a characteristic of all living things?",
+    "options": {
+      "A": "Metabolism",
+      "B": "Photosynthesis",
+      "C": "Homeostasis",
+      "D": "Reproduction"
+    },
+    "correct_answer": "B",
+    "reference": "Characteristics of Living Things section. While many living things photosynthesize, it's not a universal characteristic of all life."
+  },
+  {
+    "question": "What is the term for the study of heredity and DNA?",
+    "options": {
+      "A": "Ecology",
+      "B": "Zoology",
+      "C": "Botany",
+      "D": "Genetics"
+    },
+    "correct_answer": "D",
+    "reference": "Branches of Biology section."
+  },
+  {
+    "question": "The scientific method in biology typically involves which of the following steps, in order?",
+    "options": {
+      "A": "Hypothesis, Observation, Experiment, Conclusion",
+      "B": "Observation, Hypothesis, Experiment, Data Analysis, Conclusion",
+      "C": "Experiment, Observation, Hypothesis, Conclusion, Data Analysis",
+      "D": "Data Analysis, Observation, Hypothesis, Experiment, Conclusion"
+    },
+    "correct_answer": "B",
+    "reference": "Scientific Methods in Biology section.  While the order might be slightly flexible depending on the specific research, the provided order best reflects the typical scientific method."
+  },
+  {
+    "question": "Which branch of biology would focus on the interactions between organisms and their environment?",
+    "options": {
+      "A": "Molecular Biology",
+      "B": "Genetics",
+      "C": "Ecology",
+      "D": "Microbiology"
+    },
+    "correct_answer": "C",
+    "reference": "Branches of Biology section."
+  },
+  {
+    "question": "According to the text, what two Greek words combine to form the term 'biology'?",
+    "options": {
+      "A": "bios (body) and logos (study)",
+      "B": "bios (life) and logos (study)",
+      "C": "bio (life) and logos (logic)",
+      "D": "bios (life) and logi (study)"
+    },
+    "correct_answer": "B",
+    "reference": "What is Biology? section."
+  }
+]

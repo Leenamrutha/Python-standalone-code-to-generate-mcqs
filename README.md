@@ -3,7 +3,7 @@ AI-Based MCQ Generator from PDFs
 
 A Python application that extracts text from PDF files and generates multiple-choice questions (MCQs) using Google’s Gemini language model, with file-based caching to reduce repeated API calls.
 
-##Subheader
+## Subheader
 Tech Stack
 
 Python, pdfplumber, Google Generative AI (Gemini), JSON, File Caching
